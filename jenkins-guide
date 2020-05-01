@@ -1,0 +1,25 @@
+--more questions about security and Declarative Pipeline and fewer questions about Freestyle jobs
+
+
+Certified Jenkins Engineer
+The questions reflect the capabilities of the out-of-the-box standard installation of the product, including the Suggested Plugins. 
+You may also be asked a few questions about the functionality and uses of other popular plugins.
+
+60 multiple-choice questions
+90 minutes allowed to complete the exam
+
+Certified CloudBees Jenkins Engineer
+The exam covers current versions of CloudBees Core with an emphasis on features that are available on both traditional platforms and modern cloud platorms
+
+90 multiple-choice questions
+60 questions about Jenkins and CloudBees Jenkins Distribution features
+30 additional questions about CloudBees Core features
+
+
+Exam Topics
+-Jenkins Fundamentals
+-Jenkins Administration
+-Jenkins Build Technologies: Pipeline
+-Jenkins Build Technologies: Freestyle
+-CloudBees Core Features (CCJE exam only)
+
